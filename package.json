@@ -1,0 +1,14 @@
+{
+  "name": "seatrsv",
+  "version": "1.0.0",
+  "description": "seatrsv code",
+  "main": "index.js",
+	"repository": "git@github.com:cesosag/seatrsv.git",
+  "author": "Carlos Sosa <cesosag@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "admin/",
+    "app/"
+  ]
+}
